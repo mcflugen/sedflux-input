@@ -1,0 +1,12 @@
+date: Tue Feb 12 13:49:43 MST 2013
+sedflux version: 248
+run by: beach                         # uname -n
+operating system: Linux 2.6.18-92.el5 # uname -sr
+hardware: x86_64                      # uname -p
+run command: sedflux -i ohau.init -2 -V 6
+comments:
+   Input files provided by Phaedra Upton. She reported that sediment was not
+   being deposited in the basin. It looks as though the avulsion process was
+   disabled. This prevents sediment from being routed over the delta, and so
+   the sediment never reached the river mouth.
+
