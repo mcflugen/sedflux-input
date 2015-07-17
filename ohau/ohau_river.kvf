@@ -1,0 +1,15 @@
+[ 'Season 1' ]
+Duration (y):                            3m
+Bedload (kg/s):                          300.0
+Suspended load concentration (kg/m^3):   6,      3,      3,      3
+velocity (m/s):                          1.0
+Width (m):                               100.0
+Depth (m):                               5.0
+
+[ 'Season 2' ]
+Duration (y):                            9m
+Bedload (kg/s):                          30.0
+Suspended load concentration (kg/m^3):   .6,      .3,      .3,      .3
+velocity (m/s):                          1.0
+Width (m):                               10.0
+Depth (m):                               .5

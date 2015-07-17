@@ -1,0 +1,13 @@
+[ global ]
+margin name:		ohau
+vertical resolution:	0.1
+x resolution:		35000
+y resolution:		100
+bathymetry file:	ohau.csv
+sediment file:		ohau_sediment.kvf
+
+[ epoch ]
+number:		1
+duration:	1300y
+time step:	1y
+process file:	adriatic_processes.kvf
