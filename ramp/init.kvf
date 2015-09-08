@@ -1,0 +1,14 @@
+[ global ]
+margin name:            sedflux2d_simulation
+vertical resolution:    0.025
+x resolution:           25000
+y resolution:           250
+bathymetry file:        bathymetry.csv
+sediment file:          sediment.kvf
+
+[ epoch ]
+number:           1
+duration:         730000.0d
+time step:        1y
+process file:     process.kvf
+

@@ -1,0 +1,5 @@
+date: Tue Sep  8 10:28:21 MDT 2015
+run command: sedflux -2 --silent --no-signals --init-file=init.kvf --input-dir=.
+comments:
+   A simple test run of sedflux2d, ran through the WMT, that uses a gently
+   dipping ramp bathymetry.
