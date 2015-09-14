@@ -3,3 +3,7 @@ run command: sedflux -2 --silent --no-signals --init-file=init.kvf --input-dir=.
 comments:
    A simple test run of sedflux2d, ran through the WMT, that uses a gently
    dipping ramp bathymetry.
+bmi:
+  initialize:
+    args:
+      contents: sedflux -2 --silent --no-signals --init-file=init.kvf --input-dir=.
